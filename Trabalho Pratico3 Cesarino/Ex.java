@@ -1,0 +1,1 @@
+//Escreva um programa em java que contenha um metodo que aceite como parametro uma lista de inteiros maiores que 0.Que pode conter elementos duplicados, este metodo deve substituir cada valor repetido por 0, por fim, execute um ,metodo mostrando o array modificado. Nota: voce vai precisar de outro metodo para preencher a lista de iteiros
